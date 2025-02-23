@@ -1,6 +1,6 @@
 # <div align="center">💫 Hi 👋, I'm Javi:</div>
 <div align="center">
-A passionate frontend developer from Colombia<br>
+<h2 align="left">A passionate frontend developer from Colombia<br></h2>
 <p align="left">✨ Creating bugs since 1998<br>📚 I'm currently studying software engineering at the Manuela Beltran University in Bogotá DC <br>👨‍🎨 I've been drawing for as long as I can remember. I'm passionate about creating portraits using pencil, pen, and even colored pencils. This passion for visual expression led me to pursue a career in front-end development.<br>If you'd like to see some of my work, feel free to visit my Instagram, where I regularly share my drawings.</p>
 
 
@@ -35,11 +35,11 @@ A passionate frontend developer from Colombia<br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/Flask.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/GithubSVG.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@ A passionate frontend developer from Colombia<br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/markdown.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
@@ -59,7 +59,7 @@ A passionate frontend developer from Colombia<br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/photoshop%201.svg" height="40" alt="photoshop logo"  />
 </div>
 
 # 📊 GitHub Stats:
