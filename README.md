@@ -74,10 +74,6 @@ A passionate frontend developer from Colombia<br>
 ![](https://github-contributor-stats.vercel.app/api?username=JvMeraki&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JvMeraki&icon=0&color=10)](https://visitcount.itsvg.in)
-
-
-
 ## 🎧 My Vibes:
 <div align="center">
   <a href="https://open.spotify.com/user/imjhtn56bk448u555r0968ebv">
