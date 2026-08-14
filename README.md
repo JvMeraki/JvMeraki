@@ -71,14 +71,3 @@
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=JvMeraki&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-## 🎧 My Vibes:
-<div align="center">
-  <a href="https://open.spotify.com/user/imjhtn56bk448u555r0968ebv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=imjhtn56bk448u555r0968ebv&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
