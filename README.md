@@ -1,73 +1,91 @@
-# <div align="center">💫 Hi 👋, I'm Javi:</div>
 <div align="center">
-<h2 align="left">A passionate frontend developer from Colombia<br></h2>
-<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently studying software engineering at the Manuela Beltran University in Bogotá DC <br>👨‍🎨 I've been drawing for as long as I can remember. I'm passionate about creating portraits using pencil, pen, and even colored pencils. This passion for visual expression led me to pursue a career in front-end development.<br>If you'd like to see some of my work, feel free to visit my Instagram, where I regularly share my drawings.</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Hi%20there,%20I'm%20Javi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=55&descSize=16" width="100%"/>
 
-## 🌐 Social Media:
-<div align="center">
-  <a href="https://www.linkedin.com/in/brayanjmartinezp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jv_fearnot/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Developer+from+Colombia;Creating+bugs+since+1998&font=Fira%20Code&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20&duration=3500&pause=1000" alt="Typing SVG" />
+
 </div>
 
-# 💻 Tech Stack:
-###
+<br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/Flask.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/GithubSVG.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/markdown.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://github.com/JvMeraki/JvMeraki/blob/main/Resources/photoshop%201.svg" height="40" alt="photoshop logo"  />
+  
+### About me
+
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JvMeraki&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JvMeraki&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JvMeraki&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 📚 Studying **Software Engineering** at **Universidad Manuela Beltrán**, Bogotá D.C.
+- 👨‍🎨 Lifelong artist — pencil, pen, and colored-pencil portraits. That passion for visual expression is what pulled me into front-end development.
+- 🖼️ I share my drawings regularly on Instagram — check it out below!
+  
+<div align="center">
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Find me around the web
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanjmartinezp/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jv_fearnot/)
+
+<br>
+
+## Tech Stack
+
+</div>
+
+<table align="center" border="0">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend / Languages</th>
+    <th>Data</th>
+    <th>Tools & Design</th>
+  </tr>
+  <tr valign="top">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="36" alt="svelte"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="36" alt="astro"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java"/><br>
+      <img src="https://raw.githubusercontent.com/JvMeraki/JvMeraki/main/Resources/Flask.svg" height="36" alt="flask"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git"/><br>
+      <img src="https://raw.githubusercontent.com/JvMeraki/JvMeraki/main/Resources/GithubSVG.svg" height="36" alt="github"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="canva"/><br>
+      <img src="https://raw.githubusercontent.com/JvMeraki/JvMeraki/main/Resources/photoshop%201.svg" height="36" alt="photoshop"/><br>
+      <img src="https://raw.githubusercontent.com/JvMeraki/JvMeraki/main/Resources/markdown.svg" height="36" alt="markdown"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JvMeraki&theme=radical&hide_border=true" width="500"/>
+
+### Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer" width="100%"/>
+
+</div>
